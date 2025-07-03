@@ -1,8 +1,8 @@
-# Hey there! 👋 I'm **xfrogly**  
+# Hello World! 👋 I'm **xfrogly**  
 
 ### 💻 Full-Stack Developer | Python + JavaScript + C# | Open-Source Enthusiast  
 
-I love building **scalable apps, automation scripts, and game dev projects**. Always learning and sharing code!  
+I love building **scalable apps, automation scripts, and game dev projects**. Always learning and sharing code! 
 
 ---
 
@@ -23,31 +23,18 @@ I love building **scalable apps, automation scripts, and game dev projects**. Al
 
 ---
 
-## 🔥 **My Projects**  
-
-📌 **[Project 1](https://github.com/xfrogly/...)** – *Short description*  
-📌 **[Project 2](https://github.com/xfrogly/...)** – *Short description*  
-📌 **[Project 3](https://github.com/xfrogly/...)** – *Short description*  
-
-*(Replace with your actual projects!)*  
+## 👀 **Profile Views**  
+![Profile Views](https://komarev.com/ghpvc/?username=xfrogly&color=blueviolet&style=flat-square)  
 
 ---
 
-## 📊 **GitHub Stats**  
-
-![xfrogly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xfrogly&show_icons=true&theme=radical&hide_border=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xfrogly&layout=compact&theme=radical&hide_border=true)  
-
----
-
-## 📫 **Let's Connect!**  
+## 📫 **Connect With Me**  
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xfrogly)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
 
 ---
 
-⭐ **From [xfrogly](https://github.com/xfrogly)**  
+✨ **Thanks for visiting!**  
