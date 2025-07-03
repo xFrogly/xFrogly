@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm **xfrogly**  
+# Hey there! 👋 I'm **xFrogly**  
 
 ### 💻 Full-Stack Developer | Python + JavaScript + C# | Open-Source Enthusiast  
 
