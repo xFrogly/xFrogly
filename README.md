@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm **xFrogly**  
+# Hey there! I'm **xFrogly**  
 
 ### Full-Stack Developer | Python + JavaScript + C# | Open-Source Enthusiast  
 
@@ -27,7 +27,7 @@ I love building **scalable apps, automation scripts, and game dev projects**. Al
 
 ---
 
-## 📫 **Connect With Me**  
+## **Connect With Me**  
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xfrogly)
