@@ -1,12 +1,12 @@
 # Hey there! 👋 I'm **xFrogly**  
 
-### 💻 Full-Stack Developer | Python + JavaScript + C# | Open-Source Enthusiast  
+### Full-Stack Developer | Python + JavaScript + C# | Open-Source Enthusiast  
 
 I love building **scalable apps, automation scripts, and game dev projects**. Always learning and sharing code! 
  
 ---
 
-## 🛠️ **Tech Stack** 
+## **Tech Stack** 
 
 ### **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,7 +22,7 @@ I love building **scalable apps, automation scripts, and game dev projects**. Al
 
 ---
 
-## 👀 **Profile Views**  
+## **Profile Views**  
 ![Profile Views](https://komarev.com/ghpvc/?username=xfrogly&color=blueviolet&style=flat-square)  
 
 ---
@@ -35,4 +35,4 @@ I love building **scalable apps, automation scripts, and game dev projects**. Al
 
 ---
 
-✨ **Thanks for visiting!**  
+ **Thanks for visiting!**  
